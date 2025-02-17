@@ -8,7 +8,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="meet_link" src=""></a>
+<a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="meet_link" src="https://github.com/lucadsign/lucadsign/blob/main/assets/cal-preview.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
