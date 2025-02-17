@@ -6,7 +6,7 @@
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Pick a slot if you'd like to chat or collaborate on your next project.
 
 <a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="meet_link" src="https://github.com/lucadsign/lucadsign/blob/main/assets/cal-preview.png"></a>
 
@@ -102,8 +102,8 @@ PowerShell               ██░░░░░░░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2025 15:57:45 EET
+ Last Updated on 17/02/2025 - 17:17:35 EET
  
- Next Update on 24/02/2025
+ Next Update on Graphs - 24/02/2025
  
 
