@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut (Hello), I'm Luca! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="" width="230">
+<img align='right' src="https://github.com/lucadsign/lucadsign/blob/main/assets/giphy.gif" width="230">
 <p><em>Founder of <a href="https://currenton.vercel.app/">Currenton
 </em></p>
 
