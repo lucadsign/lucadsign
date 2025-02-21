@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut (Hello), I'm Luca! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhuaDI5aDAwc2N3ejBoNW9yNnQ4dnQwbWZ2Mm03YjhueHJ0ZHA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif" width="230">
+<img align='right' src="" width="230">
 <p><em>Founder of <a href="https://currenton.vercel.app/">Currenton
 </em></p>
 
@@ -50,7 +50,7 @@ const luca = {
  > 
 > 🏆 102 Contributions in the Year 2025
 
-**I'm an Early 🐤** 
+**I'm not an Early 🐤** 
 
 ```text
 🌞 Morning                32 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   16.84% 
@@ -86,10 +86,10 @@ CSS                      1 hr 26 mins         ███░░░░░░░░�
 VSCode                   82 hrs 7 mins              ██████████████████████████████████████░░░   100 %
 
 💻 Operating System: 
-Mac                      89 hrs 7 mins      █████████████████████████   100.00 % 
+Windows                      89 hrs 7 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               ██████████░░░░░░░░░░░░░░░   40.72 %
