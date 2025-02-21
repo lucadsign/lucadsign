@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut (Hello), I'm Luca! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdyaWttN2p5eTNlMjZqdDlkMzRzaGxtdW55eG9naTIxNnQzOGRvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzGQrj8sLH4GLcSiG1/giphy.gif" width="230">
 <p><em>Founder of <a href="https://currenton.vercel.app/">Currenton
 </em></p>
 
