@@ -36,5 +36,15 @@ const lucadsign = {
 
 
 ---
+👇 Hit in your console or terminal to connect with me.
 
-Learn more on my [portfolio](lucadsign.vercel.app).
+
+
+
+
+```bash
+npx lucadsign
+```
+
+
+**👆 This command line tool can be found at [npx luca.dsign](https://github.com/lucadsign/npx_card) and my portfolio can be found [here](lucadsign.vercel.app).**
