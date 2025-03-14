@@ -34,7 +34,7 @@ const luca = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-Last Updated on 06/03/2025 - 16:30:14 EET
+
+Learn more on my [portfolio](lucadsign.vercel.app).
