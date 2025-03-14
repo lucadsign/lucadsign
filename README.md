@@ -13,7 +13,7 @@ Pick a slot if you'd like to chat or collaborate on your next project.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const luca = {
+const lucadsign = {
     pronouns: "He" | "Him",
     code: ["HTML", "CSS", "JavaScript", "PowerShell"],
     askMeAbout: ["web development", "automation", "open source"],
