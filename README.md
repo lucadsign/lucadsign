@@ -8,7 +8,7 @@
 
 Pick a slot if you'd like to chat or collaborate on your next project.
 
-<a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="meet_link" src="https://github.com/lucadsign/lucadsign/blob/main/assets/cal-preview.png"></a>
+<a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="Let's collab!" src="https://github.com/lucadsign/lucadsign/blob/main/assets/cal.png"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
