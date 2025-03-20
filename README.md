@@ -47,4 +47,4 @@ npx luca.dsign
 ```
 
 
-**👆 This command line tool can be found at [npx luca.dsign](https://github.com/lucadsign/npx_card) and my portfolio can be found [here](lucadsign.vercel.app).**
+**👆 This command line tool can be found at [npx luca.dsign](https://meetmeinyourterminal.vercel.app) and my portfolio can be found [here](lucadsign.vercel.app).**
