@@ -15,7 +15,7 @@ Pick a slot if you'd like to chat or collaborate on your next project.
 ```javascript
 const lucadsign = {
     pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "JavaScript", "PowerShell"],
+    code: ["HTML", "CSS", "JavaScript", "TypeScript", "PowerShell"],
     askMeAbout: ["web development", "automation", "open source"],
     technologies: {
         frontEnd: {
