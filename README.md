@@ -2,6 +2,8 @@
 <img align='right' src="https://github.com/lucadsign/lucadsign/blob/main/assets/giphy.gif" width="230">
 <p><em>Founder of <a href="https://currenton.vercel.app/">Currenton
 </em></p>
+<p><em>Manager & Investor at <a href="https://lyxia.net/">Lyxia
+</em></p>
 
 
 ### 📫 Like to meet me?
