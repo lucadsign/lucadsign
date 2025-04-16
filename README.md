@@ -45,7 +45,7 @@ const lucadsign = {
 
 
 ```bash
-npx lucadsign
+npx lucadsign //coming soon
 ```
 
 
