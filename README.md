@@ -49,4 +49,4 @@ npx lucadsign
 ```
 
 
-**👆 This command line tool can be found at [npx luca.dsign](https://meetmeinyourterminal.vercel.app) and my portfolio can be found [here](lucadsign.vercel.app).**
+**👆 This command line tool can be found at [npx lucadsign](https://meetmeinyourterminal.vercel.app) and my portfolio can be found [here](lucadsign.vercel.app).**
