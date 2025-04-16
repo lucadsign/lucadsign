@@ -45,7 +45,7 @@ const lucadsign = {
 
 
 ```bash
-npx luca.dsign
+npx lucadsign
 ```
 
 
