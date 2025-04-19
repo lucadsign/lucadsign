@@ -35,18 +35,3 @@ const lucadsign = {
     funFact: "I believe that 'it works on my machine' is a valid excuse!",
 };
 ```
-
-
----
-👇 Hit in your console or terminal to connect with me:
-
-
-
-
-
-```bash
-npx lucadsign //coming soon
-```
-
-
-**👆 This command line tool can be found at [npx lucadsign](https://lucadsignsh.vercel.app) and my portfolio can be found [here](lucadsign.vercel.app).**
