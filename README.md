@@ -6,7 +6,7 @@
 </em></p>
 
 
-### 📫 Like to meet me?
+### 📫 Wanna say hi?
 
 Pick a slot if you'd like to chat or collaborate on your next project.
 
