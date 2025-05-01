@@ -8,7 +8,7 @@
 
 ### 📫 Wanna say hi?
 
-Pick a slot if you'd like to learn about me or collaborate on your next project:
+If you’d like to connect or collaborate, you can schedule a meeting here:
 
 <a href="https://cal.com/lucadsign" target="_blank"><img width="498" alt="Let's collab!" src="https://github.com/lucadsign/lucadsign/blob/main/assets/cal.png"></a>
 
