@@ -4,7 +4,7 @@
 </em></p>
 <p><em>Manager & Investor at <a href="https://lyxia.net/">Lyxia
 </em></p>
-<p><em>Technical Specialist <a href="https://adroarmedia.com/">Adroar Media
+<p><em>Technical Specialist at <a href="https://adroarmedia.com/">Adroar Media
 </em></p>
 
 
