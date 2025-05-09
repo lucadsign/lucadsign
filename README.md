@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Salut, I'm Luca! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/lucadsign/lucadsign/blob/main/assets/giphy.gif" width="230">
-<p><em>Founder  and Former Chief Executive Officer at <a href="https://currenton.vercel.app/">Currenton
+<p><em>Founder and Former Chief Executive Officer at <a href="https://currenton.vercel.app/">Currenton
 </em></p>
 <p><em>Management at <a href="https://lyxia.net/">Lyxia
 </em></p>
