@@ -34,6 +34,6 @@ const lucadsign = {
         misc: ["REST APIs", "GraphQL", "PowerShell Scripting"],
     },
     currentFocus: "Exploring advanced automation techniques and contributing to open-source projects.",
-    funFact: "I believe that 'it works on my machine' is a valid excuse!",
+    funFact: "#thecodeworksonmymachine",
 };
 ```
