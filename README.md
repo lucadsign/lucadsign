@@ -12,7 +12,7 @@
 
 If you’d like to connect or collaborate, you can schedule a meeting using the contact links:
 
-<a href="https://lucadsign.vercel.app" target="_blank"><img width="498" alt="Let's collab!" src="https://github.com/lucadsign/lucadsign/blob/main/assets/contact.png"></a>
+<a href="https://lucadsign.vercel.app" target="_blank"><img width="498" alt="Let's collab!"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me, but through Javascript...  
 
