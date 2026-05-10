@@ -2,9 +2,9 @@
 <img align='right' src="https://github.com/lucadsign/lucadsign/blob/main/assets/giphy.gif" width="230">
 <p><em>Founder and Former Chief Executive Officer at <a href="https://currenton.vercel.app/">Currenton
 </em></p>
-<p><em>Management at <a href="https://lyxia.net/">Lyxia
+<p><em>Management and Investor at <a href="https://lyxia.net/">Lyxia
 </em></p>
-<p><em>Technical Specialist at <a href="https://adroarmedia.com/">Adroar Media
+<p><em>Translator at <a href="https://devolutions.net/">UniGetUI
 </em></p>
 
 
